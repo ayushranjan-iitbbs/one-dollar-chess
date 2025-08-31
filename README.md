@@ -1,4 +1,3 @@
-# one-dollar-chess
 
 # ♟️ One Dollar Chess
 
